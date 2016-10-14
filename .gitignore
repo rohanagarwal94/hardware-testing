@@ -1,0 +1,12 @@
+.idea/
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+.gradle/2.2.1/taskArtifacts/cache.properties
