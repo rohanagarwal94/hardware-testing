@@ -9,10 +9,45 @@ package com.example.hardware;
 
 public final class R {
     public static final class attr {
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int layoutManager=0x7f010000;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int reverseLayout=0x7f010002;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int spanCount=0x7f010001;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stackFromEnd=0x7f010003;
     }
     public static final class dimen {
         public static final int activity_horizontal_margin=0x7f060000;
         public static final int activity_vertical_margin=0x7f060001;
+        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f060002;
+        public static final int item_touch_helper_swipe_escape_max_velocity=0x7f060003;
+        public static final int item_touch_helper_swipe_escape_velocity=0x7f060004;
     }
     public static final class drawable {
         public static final int battery=0x7f020000;
@@ -52,48 +87,50 @@ public final class R {
         public static final int vib=0x7f020022;
     }
     public static final class id {
-        public static final int action_settings=0x7f090029;
-        public static final int again_button=0x7f09001b;
-        public static final int btnSwitch=0x7f09000c;
-        public static final int but101=0x7f090026;
-        public static final int imageView1=0x7f090004;
-        public static final int linearLayout1=0x7f090000;
-        public static final int listView1=0x7f09001a;
-        public static final int main_view=0x7f090009;
-        public static final int progressbar=0x7f090005;
-        public static final int rr=0x7f09000b;
-        public static final int tVProximity=0x7f09001c;
-        public static final int textView00=0x7f090001;
-        public static final int textView1=0x7f09000a;
-        public static final int textView10=0x7f090014;
-        public static final int textView12=0x7f090007;
-        public static final int textView14=0x7f090015;
-        public static final int textView1a=0x7f09001d;
-        public static final int textView2=0x7f090003;
-        public static final int textView2a=0x7f09001e;
-        public static final int textView3=0x7f090002;
-        public static final int textView30=0x7f090028;
-        public static final int textView32=0x7f090027;
-        public static final int textView3a=0x7f09001f;
-        public static final int textView4=0x7f090017;
-        public static final int textView41=0x7f090008;
-        public static final int textView4a=0x7f090020;
-        public static final int textView5=0x7f090018;
-        public static final int textView51=0x7f090016;
-        public static final int textView5a=0x7f090021;
-        public static final int textView6=0x7f090019;
-        public static final int textView60=0x7f09000d;
-        public static final int textView61=0x7f09000e;
-        public static final int textView6a=0x7f090022;
-        public static final int textView70=0x7f09000f;
-        public static final int textView71=0x7f090010;
-        public static final int textView72=0x7f090011;
-        public static final int textView7a=0x7f090023;
-        public static final int textView8=0x7f090012;
-        public static final int textView8a=0x7f090024;
-        public static final int textView9=0x7f090013;
-        public static final int textView9a=0x7f090025;
-        public static final int textfield=0x7f090006;
+        public static final int action_settings=0x7f07002b;
+        public static final int again_button=0x7f07001c;
+        public static final int btnSwitch=0x7f07000d;
+        public static final int but101=0x7f070027;
+        public static final int imageView1=0x7f070005;
+        public static final int item_touch_helper_previous_elevation=0x7f070000;
+        public static final int linearLayout1=0x7f070001;
+        public static final int listView1=0x7f07001b;
+        public static final int main_view=0x7f07000a;
+        public static final int progressbar=0x7f070006;
+        public static final int rr=0x7f07000c;
+        public static final int tVProximity=0x7f07001d;
+        public static final int textView00=0x7f070002;
+        public static final int textView1=0x7f07000b;
+        public static final int textView10=0x7f070015;
+        public static final int textView12=0x7f070008;
+        public static final int textView14=0x7f070016;
+        public static final int textView1a=0x7f07001e;
+        public static final int textView2=0x7f070004;
+        public static final int textView2a=0x7f07001f;
+        public static final int textView3=0x7f070003;
+        public static final int textView30=0x7f070029;
+        public static final int textView32=0x7f070028;
+        public static final int textView3a=0x7f070020;
+        public static final int textView4=0x7f070018;
+        public static final int textView41=0x7f070009;
+        public static final int textView4a=0x7f070021;
+        public static final int textView5=0x7f070019;
+        public static final int textView51=0x7f070017;
+        public static final int textView5a=0x7f070022;
+        public static final int textView6=0x7f07001a;
+        public static final int textView60=0x7f07000e;
+        public static final int textView61=0x7f07000f;
+        public static final int textView6a=0x7f070023;
+        public static final int textView70=0x7f070010;
+        public static final int textView71=0x7f070011;
+        public static final int textView72=0x7f070012;
+        public static final int textView7a=0x7f070024;
+        public static final int textView8=0x7f070013;
+        public static final int textView8a=0x7f070025;
+        public static final int textView9=0x7f070014;
+        public static final int textView9a=0x7f070026;
+        public static final int textfield=0x7f070007;
+        public static final int tv_extraa=0x7f07002a;
     }
     public static final class layout {
         public static final int activity_accelarometer=0x7f030000;
@@ -121,58 +158,58 @@ public final class R {
         public static final int extraa=0x7f030016;
     }
     public static final class menu {
-        public static final int accelarometer=0x7f080000;
-        public static final int batteryindicator=0x7f080001;
-        public static final int blueadd=0x7f080002;
-        public static final int buttontesting=0x7f080003;
-        public static final int display=0x7f080004;
-        public static final int flash=0x7f080005;
-        public static final int gpsloc=0x7f080006;
-        public static final int gravitysensor=0x7f080007;
-        public static final int gyroscope=0x7f080008;
-        public static final int headphone=0x7f080009;
-        public static final int lightsensor=0x7f08000a;
-        public static final int magneticsensor=0x7f08000b;
-        public static final int main=0x7f08000c;
-        public static final int mictesting=0x7f08000d;
-        public static final int pressure=0x7f08000e;
-        public static final int proximity_sensor=0x7f08000f;
-        public static final int splash=0x7f080010;
-        public static final int systeminfo=0x7f080011;
-        public static final int tele=0x7f080012;
-        public static final int touch_sensor=0x7f080013;
-        public static final int vibration=0x7f080014;
-        public static final int wifiaddress=0x7f080015;
+        public static final int accelarometer=0x7f090000;
+        public static final int batteryindicator=0x7f090001;
+        public static final int blueadd=0x7f090002;
+        public static final int buttontesting=0x7f090003;
+        public static final int display=0x7f090004;
+        public static final int flash=0x7f090005;
+        public static final int gpsloc=0x7f090006;
+        public static final int gravitysensor=0x7f090007;
+        public static final int gyroscope=0x7f090008;
+        public static final int headphone=0x7f090009;
+        public static final int lightsensor=0x7f09000a;
+        public static final int magneticsensor=0x7f09000b;
+        public static final int main=0x7f09000c;
+        public static final int mictesting=0x7f09000d;
+        public static final int pressure=0x7f09000e;
+        public static final int proximity_sensor=0x7f09000f;
+        public static final int splash=0x7f090010;
+        public static final int systeminfo=0x7f090011;
+        public static final int tele=0x7f090012;
+        public static final int touch_sensor=0x7f090013;
+        public static final int vibration=0x7f090014;
+        public static final int wifiaddress=0x7f090015;
     }
     public static final class raw {
         public static final int light_switch_off=0x7f040000;
         public static final int light_switch_on=0x7f040001;
     }
     public static final class string {
-        public static final int action_settings=0x7f070000;
-        public static final int app_name=0x7f070001;
-        public static final int title_activity_accelarometer=0x7f070002;
-        public static final int title_activity_batteryindicator=0x7f070003;
-        public static final int title_activity_blueadd=0x7f070004;
-        public static final int title_activity_button=0x7f070005;
-        public static final int title_activity_buttontesting=0x7f070006;
-        public static final int title_activity_flash=0x7f070007;
-        public static final int title_activity_gpsloc=0x7f070008;
-        public static final int title_activity_gravitysensor=0x7f070009;
-        public static final int title_activity_gyroscope=0x7f07000a;
-        public static final int title_activity_headphone=0x7f07000b;
-        public static final int title_activity_lightsensor=0x7f07000c;
-        public static final int title_activity_magneticsensor=0x7f07000d;
-        public static final int title_activity_mictesting=0x7f07000e;
-        public static final int title_activity_notification_light=0x7f07000f;
-        public static final int title_activity_pressure=0x7f070010;
-        public static final int title_activity_proximity_sensor=0x7f070011;
-        public static final int title_activity_splash=0x7f070012;
-        public static final int title_activity_systeminfo=0x7f070013;
-        public static final int title_activity_tele=0x7f070014;
-        public static final int title_activity_touch_sensor=0x7f070015;
-        public static final int title_activity_vibration=0x7f070016;
-        public static final int title_activity_wifiaddress=0x7f070017;
+        public static final int action_settings=0x7f080000;
+        public static final int app_name=0x7f080001;
+        public static final int title_activity_accelarometer=0x7f080002;
+        public static final int title_activity_batteryindicator=0x7f080003;
+        public static final int title_activity_blueadd=0x7f080004;
+        public static final int title_activity_button=0x7f080005;
+        public static final int title_activity_buttontesting=0x7f080006;
+        public static final int title_activity_flash=0x7f080007;
+        public static final int title_activity_gpsloc=0x7f080008;
+        public static final int title_activity_gravitysensor=0x7f080009;
+        public static final int title_activity_gyroscope=0x7f08000a;
+        public static final int title_activity_headphone=0x7f08000b;
+        public static final int title_activity_lightsensor=0x7f08000c;
+        public static final int title_activity_magneticsensor=0x7f08000d;
+        public static final int title_activity_mictesting=0x7f08000e;
+        public static final int title_activity_notification_light=0x7f08000f;
+        public static final int title_activity_pressure=0x7f080010;
+        public static final int title_activity_proximity_sensor=0x7f080011;
+        public static final int title_activity_splash=0x7f080012;
+        public static final int title_activity_systeminfo=0x7f080013;
+        public static final int title_activity_tele=0x7f080014;
+        public static final int title_activity_touch_sensor=0x7f080015;
+        public static final int title_activity_vibration=0x7f080016;
+        public static final int title_activity_wifiaddress=0x7f080017;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
@@ -188,4 +225,98 @@ public final class R {
          */
         public static final int AppTheme=0x7f050001;
     }
+    public static final class styleable {
+        /** Attributes that can be used with a RecyclerView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.example.hardware:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.example.hardware:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.example.hardware:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.example.hardware:stackFromEnd}</code></td><td></td></tr>
+           </table>
+           @see #RecyclerView_android_descendantFocusability
+           @see #RecyclerView_android_orientation
+           @see #RecyclerView_layoutManager
+           @see #RecyclerView_reverseLayout
+           @see #RecyclerView_spanCount
+           @see #RecyclerView_stackFromEnd
+         */
+        public static final int[] RecyclerView = {
+            0x010100c4, 0x010100f1, 0x7f010000, 0x7f010001,
+            0x7f010002, 0x7f010003
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#descendantFocusability}
+          attribute's value can be found in the {@link #RecyclerView} array.
+          @attr name android:descendantFocusability
+        */
+        public static final int RecyclerView_android_descendantFocusability = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#orientation}
+          attribute's value can be found in the {@link #RecyclerView} array.
+          @attr name android:orientation
+        */
+        public static final int RecyclerView_android_orientation = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.hardware.R.attr#layoutManager}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.hardware:layoutManager
+        */
+        public static final int RecyclerView_layoutManager = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.hardware.R.attr#reverseLayout}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.hardware:reverseLayout
+        */
+        public static final int RecyclerView_reverseLayout = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.hardware.R.attr#spanCount}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.hardware:spanCount
+        */
+        public static final int RecyclerView_spanCount = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.hardware.R.attr#stackFromEnd}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.hardware:stackFromEnd
+        */
+        public static final int RecyclerView_stackFromEnd = 5;
+    };
 }

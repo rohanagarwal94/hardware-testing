@@ -42,4 +42,10 @@ public class Batteryindicator extends Activity {
         registerReceiver(mBatInfoReceiver, new IntentFilter(
                 Intent.ACTION_BATTERY_CHANGED));
     }
+
+    @Override
+    protected void onDestroy() {
+        unregisterReceiver(mBatInfoReceiver);
+        super.onDestroy();
+    }
 }

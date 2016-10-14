@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_switch_off.png",
+        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-xhdpi/btn_switch_off.png"
+    },
+    {
+        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_switch_on.png",
+        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-xhdpi/btn_switch_on.png"
+    },
+    {
+        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/customizationicon.png",
+        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-xhdpi/customizationicon.png"
+    },
+    {
+        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/images.png",
+        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-xhdpi/images.png"
+    }
+]

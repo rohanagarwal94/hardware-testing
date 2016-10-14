@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hardware.iml" filepath="$PROJECT_DIR$/Hardware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hardware-testing-master.iml" filepath="$PROJECT_DIR$/Hardware-testing-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,0 +1,7 @@
+#Fri Oct 14 21:16:17 IST 2016
+base.0=/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e07bf03d1ef82854312641732fa5866ad06f5bb5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_075815212259c45d4db5583edd30b290bad4b6ac/classes.dex
+base.1=/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_075815212259c45d4db5583edd30b290bad4b6ac
+file.0=/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e07bf03d1ef82854312641732fa5866ad06f5bb5/classes.dex
