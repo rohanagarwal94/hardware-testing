@@ -4,40 +4,33 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="65145288099081"
+    timestamp="66098175936505"
     token="9153256344688361043"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="399" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="331" />
     <task
         name="verifier"
-        duration="0" />
+        duration="31" />
 
     <artifact
-        location="/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="65002097835517"
+        timestamp="66098175936505"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="65145288099081"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
