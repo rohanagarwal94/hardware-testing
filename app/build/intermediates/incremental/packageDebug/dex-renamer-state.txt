@@ -1,0 +1,7 @@
+#Fri Oct 14 19:06:04 IST 2016
+base.0=/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_626d4df311b15509572a683c8c04d40a64bbe8ea
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bbb8253f733c5f01d82edd17209926536baa6799/classes.dex
+base.1=/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bbb8253f733c5f01d82edd17209926536baa6799
+file.0=/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_626d4df311b15509572a683c8c04d40a64bbe8ea/classes.dex

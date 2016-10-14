@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/customizationicon.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/customizationicon.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/sysinfo.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/sysinfo.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/f1.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/f1.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_on.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/btn_switch_on.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/ps2.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/ps2.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/noti.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/noti.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/flash.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/flash.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/sim1.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/sim1.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/images.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/images.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/prox.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/prox.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_off.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/btn_switch_off.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/butt.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/butt.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/download2.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/download2.png"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/drawable-hdpi/spe1.png",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/drawable-hdpi/spe1.png"
+    }
+]

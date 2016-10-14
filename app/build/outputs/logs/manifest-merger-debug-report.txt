@@ -1,231 +1,254 @@
 -- Merging decision tree log ---
 manifest
-ADDED from AndroidManifest.xml:2:1
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:2:1-141:12
 	package
-		ADDED from AndroidManifest.xml:3:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from AndroidManifest.xml:5:5
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from AndroidManifest.xml:4:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from AndroidManifest.xml:2:11
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from AndroidManifest.xml:7:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from AndroidManifest.xml:9:9
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from AndroidManifest.xml:8:9
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from AndroidManifest.xml:11:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from AndroidManifest.xml:11:22
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:11:22-76
 uses-permission#android.permission.INTERNET
-ADDED from AndroidManifest.xml:12:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from AndroidManifest.xml:12:22
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from AndroidManifest.xml:13:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from AndroidManifest.xml:13:22
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:13:22-73
 uses-permission#android.permission.BLUETOOTH
-ADDED from AndroidManifest.xml:14:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:14:5-68
 	android:name
-		ADDED from AndroidManifest.xml:14:22
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:14:22-65
 uses-permission#android.permission.VIBRATE
-ADDED from AndroidManifest.xml:15:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:15:9-70
 	android:name
-		ADDED from AndroidManifest.xml:15:26
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:15:26-67
 uses-permission#android.permission.CAMERA
-ADDED from AndroidManifest.xml:16:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:16:5-65
 	android:name
-		ADDED from AndroidManifest.xml:16:22
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:16:22-62
 uses-feature#android.hardware.camera
-ADDED from AndroidManifest.xml:18:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:18:5-60
 	android:name
-		ADDED from AndroidManifest.xml:18:19
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:18:19-57
 uses-permission#android.permission.FLASHLIGHT
-ADDED from AndroidManifest.xml:20:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:20:5-22:38
 	android:maxSdkVersion
-		ADDED from AndroidManifest.xml:22:9
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:22:9-35
 	android:name
-		ADDED from AndroidManifest.xml:21:9
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:21:9-53
 uses-permission#android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
-ADDED from AndroidManifest.xml:23:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:23:5-93
 	android:name
-		ADDED from AndroidManifest.xml:23:22
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:23:22-90
 application
-ADDED from AndroidManifest.xml:26:5
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:26:5-139:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from AndroidManifest.xml:29:9
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:29:9-41
 	android:allowBackup
-		ADDED from AndroidManifest.xml:27:9
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:27:9-35
 	android:icon
-		ADDED from AndroidManifest.xml:28:9
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:28:9-51
 	android:theme
-		ADDED from AndroidManifest.xml:30:9
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:30:9-40
 activity#com.example.hardware.Splash
-ADDED from AndroidManifest.xml:31:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:31:9-39:20
 	android:label
-		ADDED from AndroidManifest.xml:33:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:33:13-58
 	android:name
-		ADDED from AndroidManifest.xml:32:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:32:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:34:13
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:35:17
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from AndroidManifest.xml:35:25
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:37:17
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from AndroidManifest.xml:37:27
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:37:27-74
 activity#com.example.hardware.MainActivity
-ADDED from AndroidManifest.xml:40:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:40:9-43:20
 	android:label
-		ADDED from AndroidManifest.xml:42:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:42:13-45
 	android:name
-		ADDED from AndroidManifest.xml:41:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:41:13-41
 activity#com.example.hardware.Accelarometer
-ADDED from AndroidManifest.xml:44:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:44:9-47:20
 	android:label
-		ADDED from AndroidManifest.xml:46:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:46:13-65
 	android:name
-		ADDED from AndroidManifest.xml:45:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:45:13-42
 activity#com.example.hardware.Magneticsensor
-ADDED from AndroidManifest.xml:48:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:48:9-51:20
 	android:label
-		ADDED from AndroidManifest.xml:50:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:50:13-66
 	android:name
-		ADDED from AndroidManifest.xml:49:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:49:13-43
 intent-filter#android.intent.action.MAGNETICSENSOR+android.intent.category.DEFAULT
-ADDED from AndroidManifest.xml:53:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:53:9-57:25
 action#android.intent.action.MAGNETICSENSOR
-ADDED from AndroidManifest.xml:54:13
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:54:13-75
 	android:name
-		ADDED from AndroidManifest.xml:54:21
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:54:21-72
 category#android.intent.category.DEFAULT
-ADDED from AndroidManifest.xml:56:13
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:56:13-72
 	android:name
-		ADDED from AndroidManifest.xml:56:23
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:56:23-69
 activity#com.example.hardware.Gyroscope
-ADDED from AndroidManifest.xml:60:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:60:9-63:20
 	android:label
-		ADDED from AndroidManifest.xml:62:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:62:13-61
 	android:name
-		ADDED from AndroidManifest.xml:61:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:61:13-38
 activity#com.example.hardware.Batteryindicator
-ADDED from AndroidManifest.xml:64:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:64:9-67:20
 	android:label
-		ADDED from AndroidManifest.xml:66:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:66:13-68
 	android:name
-		ADDED from AndroidManifest.xml:65:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:65:13-45
 activity#com.example.hardware.Gpsloc
-ADDED from AndroidManifest.xml:69:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:69:9-72:20
 	android:label
-		ADDED from AndroidManifest.xml:71:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:71:13-58
 	android:name
-		ADDED from AndroidManifest.xml:70:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:70:13-35
 activity#com.example.hardware.Wifiaddress
-ADDED from AndroidManifest.xml:73:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:73:9-76:20
 	android:label
-		ADDED from AndroidManifest.xml:75:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:75:13-63
 	android:name
-		ADDED from AndroidManifest.xml:74:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:74:13-40
 activity#com.example.hardware.Blueadd
-ADDED from AndroidManifest.xml:77:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:77:9-80:20
 	android:label
-		ADDED from AndroidManifest.xml:79:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:79:13-59
 	android:name
-		ADDED from AndroidManifest.xml:78:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:78:13-36
 activity#com.example.hardware.Headphone
-ADDED from AndroidManifest.xml:81:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:81:9-84:20
 	android:label
-		ADDED from AndroidManifest.xml:83:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:83:13-61
 	android:name
-		ADDED from AndroidManifest.xml:82:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:82:13-38
 activity#com.example.hardware.Vibration
-ADDED from AndroidManifest.xml:85:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:85:9-88:20
 	android:label
-		ADDED from AndroidManifest.xml:87:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:87:13-61
 	android:name
-		ADDED from AndroidManifest.xml:86:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:86:13-38
 activity#com.example.hardware.Tele
-ADDED from AndroidManifest.xml:89:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:89:9-92:20
 	android:label
-		ADDED from AndroidManifest.xml:91:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:91:13-56
 	android:name
-		ADDED from AndroidManifest.xml:90:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:90:13-33
 activity#com.example.hardware.Systeminfo
-ADDED from AndroidManifest.xml:93:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:93:9-96:20
 	android:label
-		ADDED from AndroidManifest.xml:95:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:95:13-62
 	android:name
-		ADDED from AndroidManifest.xml:94:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:94:13-39
 activity#com.example.hardware.NotificationLight
-ADDED from AndroidManifest.xml:97:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:97:9-100:20
 	android:label
-		ADDED from AndroidManifest.xml:99:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:99:13-70
 	android:name
-		ADDED from AndroidManifest.xml:98:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:98:13-46
 activity#com.example.hardware.TouchSensor
-ADDED from AndroidManifest.xml:101:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:101:9-104:20
 	android:label
-		ADDED from AndroidManifest.xml:103:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:103:13-64
 	android:name
-		ADDED from AndroidManifest.xml:102:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:102:13-40
 activity#com.example.hardware.Display
-ADDED from AndroidManifest.xml:105:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:105:9-108:20
 	android:label
-		ADDED from AndroidManifest.xml:107:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:107:13-58
 	android:name
-		ADDED from AndroidManifest.xml:106:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:106:13-36
 activity#com.example.hardware.ProximitySensor
-ADDED from AndroidManifest.xml:109:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:109:9-112:20
 	android:label
-		ADDED from AndroidManifest.xml:111:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:111:13-68
 	android:name
-		ADDED from AndroidManifest.xml:110:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:110:13-44
 activity#com.example.hardware.Lightsensor
-ADDED from AndroidManifest.xml:113:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:113:9-116:20
 	android:label
-		ADDED from AndroidManifest.xml:115:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:115:13-63
 	android:name
-		ADDED from AndroidManifest.xml:114:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:114:13-40
 activity#com.example.hardware.Buttontesting
-ADDED from AndroidManifest.xml:117:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:117:9-120:20
 	android:label
-		ADDED from AndroidManifest.xml:119:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:119:13-65
 	android:name
-		ADDED from AndroidManifest.xml:118:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:118:13-42
 activity#com.example.hardware.Mictesting
-ADDED from AndroidManifest.xml:121:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:121:9-124:20
 	android:label
-		ADDED from AndroidManifest.xml:123:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:123:13-62
 	android:name
-		ADDED from AndroidManifest.xml:122:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:122:13-39
 activity#com.example.hardware.Pressure
-ADDED from AndroidManifest.xml:125:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:125:9-128:20
 	android:label
-		ADDED from AndroidManifest.xml:127:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:127:13-60
 	android:name
-		ADDED from AndroidManifest.xml:126:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:126:13-37
 activity#com.example.hardware.Flash
-ADDED from AndroidManifest.xml:129:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:129:9-132:20
 	android:label
-		ADDED from AndroidManifest.xml:131:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:131:13-57
 	android:name
-		ADDED from AndroidManifest.xml:130:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:130:13-34
 activity#com.example.hardware.Gravitysensor
-ADDED from AndroidManifest.xml:135:9
+ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:135:9-138:20
 	android:label
-		ADDED from AndroidManifest.xml:137:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:137:13-65
 	android:name
-		ADDED from AndroidManifest.xml:136:13
+		ADDED from /home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/AndroidManifest.xml:136:13-42

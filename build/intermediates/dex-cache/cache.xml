@@ -2,11 +2,166 @@
 <items version="2" >
 
     <item
-        jar="C:\rohan1\compjava\Android SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.1"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\rohanpc\AndroidStudioProjects\Hardware\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-6caa103ece5cd21023d4f7b3dda77c96486485fb.jar" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_22e326da4bd34c64ba746541468f716dfea77833/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_73d69ba61efbd9abb7407d7feca79c8bb2029b1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_d594bd6830e594423286287540ce6426286eb543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_63afde123fad20af0e9580a019fd738747e9eb4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_3fb8d3a2c98ce73fc2066d2e2abceba8d888b7dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_372687f01e1897b9368f8b8a49e00c2d5ba2cb97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="be2c15bb545b119096d3d9fc8381c75a630c6ae1">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bbb8253f733c5f01d82edd17209926536baa6799/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_44cfdbc4288f5a74333c5b5444f7ea5ecf29ed6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1698a76ac139eb32c9a70a30af9570cbd7164b2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bd9a195579d6f2c5eb956fafe3653ec5acd1dda">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_626d4df311b15509572a683c8c04d40a64bbe8ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_180d798084751a6f61cf7871ecbb6f5e922b6514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ad6c4897a8fef57bf1bff14b81d96382ae16a548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dcdabce54eef3a960c83841ba1be67fcaa1246a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_78ebda3ffabf5da640a451a4a4b6541ea4f8f53f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_3dcba7c56a1cf4dea2f7d7d055d165dbac7bdb1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_53125ddd5e05e1a01445e0b3ed3cc7b6abfafe00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6e98f98272ecc3b66f2ca9d0d657674fa36a4b21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4bae07a45861f5488fe0afd502f02c1049265d50/classes.dex" />
     </item>
 
 </items>
