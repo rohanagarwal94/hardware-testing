@@ -1,4 +1,4 @@
-# Hardware-testing
+# Hardware-testing [![Build Status](https://travis-ci.org/rohanagarwal94/Hardware-testing.svg?branch=master)](https://travis-ci.org/rohanagarwal94/Hardware-testing) 
 Harware Testing is a Free and Open Source (FOSS) Android application that allows you to analyze and test your device's hardware, sensors and components, to make sure everything is operating correctly, and helps to diagnose in case of any damage.
 
 With this you will be able to test the following:
