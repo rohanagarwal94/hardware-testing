@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/mictesting.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/mictesting.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/gpsloc.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/gpsloc.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/proximity_sensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/proximity_sensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/display.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/display.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/gravitysensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/gravitysensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/systeminfo.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/systeminfo.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/splash.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/splash.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/pressure.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/pressure.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/accelarometer.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/accelarometer.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/buttontesting.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/buttontesting.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/touch_sensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/touch_sensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/headphone.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/headphone.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/wifiaddress.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/wifiaddress.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/vibration.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/vibration.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/tele.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/tele.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/magneticsensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/magneticsensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/batteryindicator.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/batteryindicator.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/blueadd.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/blueadd.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/flash.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/flash.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/gyroscope.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/gyroscope.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/menu/lightsensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/menu/lightsensor.xml"
+    }
+]

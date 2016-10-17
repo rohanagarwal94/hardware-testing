@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_gravitysensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_gravitysensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_vibration.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_vibration.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_pressure.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_pressure.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_touch_sensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_touch_sensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_systeminfo.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_systeminfo.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_proximity_sensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_proximity_sensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_display.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_display.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_accelarometer.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_accelarometer.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_blueadd.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_blueadd.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_flash.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_flash.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_gyroscope.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_gyroscope.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_mictesting.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_mictesting.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_magneticsensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_magneticsensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_tele.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_tele.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_lightsensor.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_lightsensor.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/raw_item.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/raw_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_buttontesting.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_buttontesting.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_wifiaddress.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_wifiaddress.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_batteryindicator.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_batteryindicator.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_headphone.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_headphone.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/activity_gpsloc.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/src/main/res/layout/activity_gpsloc.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    }
+]

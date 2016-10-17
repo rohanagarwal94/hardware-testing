@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="30965453750878"
+    token="7282237596990316451"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="29930632591527"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="30322971439904"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="30809210836220"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="30965453750878"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/rishabh/hackoctoberfest/Hardware-testing/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
