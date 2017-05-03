@@ -4,48 +4,40 @@
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/flash.png"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sim1.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/sim1.png"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/customizationicon.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/customizationicon.png"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_off.png",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/btn_switch_off.png"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/f1.png",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/f1.png"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/noti.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/noti.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sysinfo.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/sysinfo.png"
-    },
-    {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_on.png",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/btn_switch_on.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ps2.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/ps2.png"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/spe1.png",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/spe1.png"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_on.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/btn_switch_on.png"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/customizationicon.png",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/customizationicon.png"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/noti.png",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/noti.png"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/images.png",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/images.png"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/sim1.png",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/sim1.png"
+    },
+    {
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/noti.png",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/noti.png"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/prox.png",
@@ -54,58 +46,6 @@
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/download2.png",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/download2.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/flash.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/flash.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/images.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/images.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/prox.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/prox.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/spe1.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/spe1.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/f1.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/f1.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_off.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/btn_switch_off.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_off.png",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/btn_switch_off.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/butt.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/butt.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/images.png",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/images.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/customizationicon.png",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-hdpi/customizationicon.png"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-hdpi/download2.png",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-hdpi/download2.png"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-hdpi/ps2.png",

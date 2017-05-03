@@ -1,22 +1,25 @@
 package com.example.hardware;
 
 import android.app.Activity;
+import android.graphics.Color;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 import android.widget.Toast;
 
 
-public class Accelarometer extends Activity implements SensorEventListener{
+public class Accelarometer extends AppCompatActivity implements SensorEventListener{
       TextView tvx,tvy,tvz;
       SensorManager sensmgr;
       Sensor accsensor;
       float[] sensorvalues;
+	TextView tv_main;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -25,6 +28,7 @@ public class Accelarometer extends Activity implements SensorEventListener{
 		tvx=(TextView)findViewById(R.id.textView00);
 		tvy=(TextView)findViewById(R.id.textView2);
 		tvz=(TextView)findViewById(R.id.textView3);
+		tv_main= (TextView) findViewById(R.id.colourtv);
 		
 		sensmgr=(SensorManager)getSystemService(SENSOR_SERVICE);
 		accsensor=sensmgr.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
@@ -59,6 +63,11 @@ public class Accelarometer extends Activity implements SensorEventListener{
      tvx.setText("x "+x+" m/s^2");
      tvy.setText("y "+y+" m/s^2");
      tvz.setText("z "+z+" m/s^2");
+		int m= (int) ((event.values[0]/22)*255);
+		int n= (int) ((event.values[1]/22)*255);
+		int p= (int) ((event.values[2]/22)*255);
+
+		tv_main.setBackgroundColor(Color.rgb(m,n,p));
      if(x>15||y>15||z>15)
      {
     	 Toast.makeText(getApplicationContext(), "phone shaked",Toast.LENGTH_LONG).show();

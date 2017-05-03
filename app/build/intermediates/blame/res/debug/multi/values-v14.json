@@ -1,31 +1,5 @@
 [
     {
-        "outputFile": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 201
-                },
-                "from": {
-                    "file": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/values-v14/styles.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 220,
-                        "endLine": 9,
-                        "endColumn": 12,
-                        "endOffset": 366
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {
@@ -33,9 +7,161 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endLine": 4,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 45,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 46,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 50,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 41,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 41,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 39,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 39,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 47,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 47,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 46,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 46,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 48,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 48,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endLine": 12,
                     "endColumn": 12,
-                    "endOffset": 201
+                    "endOffset": 571
                 },
                 "from": {
                     "file": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/values-v14/styles.xml",
@@ -46,6 +172,204 @@
                         "endLine": 9,
                         "endColumn": 12,
                         "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 70,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 82,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1006,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1411
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1416,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1833
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1838,
+                    "endColumn": 119,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 62,
+                    "endOffset": 2016
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2021,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 62,
+                    "endOffset": 2233
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2238,
+                    "endColumn": 131,
+                    "endOffset": 2365
+                },
+                "from": {
+                    "file": "/Users/abhishekyadav/.android/build-cache/894807b58b454f4ce987371dd2098bad5f85d361/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
                     }
                 }
             }

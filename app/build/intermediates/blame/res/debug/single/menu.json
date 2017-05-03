@@ -1,71 +1,11 @@
 [
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/flash.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/flash.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/display.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/display.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/gpsloc.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/gpsloc.xml"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/gravitysensor.xml",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/gravitysensor.xml"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/gyroscope.xml",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/gyroscope.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/blueadd.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/blueadd.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/lightsensor.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/lightsensor.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/gyroscope.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/gyroscope.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/accelarometer.xml",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/accelarometer.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/gpsloc.xml",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/gpsloc.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/display.xml",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/display.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/touch_sensor.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/touch_sensor.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/magneticsensor.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/magneticsensor.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/batteryindicator.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/batteryindicator.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/main.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/blueadd.xml",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/blueadd.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/headphone.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/headphone.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/gravitysensor.xml",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/gravitysensor.xml"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/main.xml",
@@ -80,16 +20,12 @@
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/vibration.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/vibration.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/vibration.xml"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/accelarometer.xml",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/accelarometer.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/buttontesting.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/buttontesting.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/mictesting.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/mictesting.xml"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/gpsloc.xml",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/gpsloc.xml"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/wifiaddress.xml",
@@ -100,20 +36,16 @@
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/magneticsensor.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/proximity_sensor.xml",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/proximity_sensor.xml"
-    },
-    {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/flash.xml",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/flash.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/touch_sensor.xml",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/touch_sensor.xml"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/proximity_sensor.xml",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/proximity_sensor.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/tele.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/tele.xml"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/touch_sensor.xml",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/touch_sensor.xml"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/splash.xml",
@@ -128,10 +60,6 @@
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/mictesting.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/accelarometer.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/accelarometer.xml"
-    },
-    {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/lightsensor.xml",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/lightsensor.xml"
     },
@@ -140,39 +68,23 @@
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/batteryindicator.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/systeminfo.xml",
-        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/systeminfo.xml"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/display.xml",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/display.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/pressure.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/pressure.xml"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/systeminfo.xml",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/systeminfo.xml"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/buttontesting.xml",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/buttontesting.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/gravitysensor.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/gravitysensor.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/proximity_sensor.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/proximity_sensor.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/wifiaddress.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/wifiaddress.xml"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/systeminfo.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/systeminfo.xml"
-    },
-    {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/pressure.xml",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/pressure.xml"
     },
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/menu/splash.xml",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/menu/splash.xml"
+        "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/menu/blueadd.xml",
+        "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/menu/blueadd.xml"
     }
 ]

@@ -1,4 +1,4 @@
-#Wed May 03 23:13:12 IST 2017
+#Thu May 04 04:20:12 IST 2017
 base.0=/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_269747aa6d5cba17c9def4c32f76d8d6cef6698d
 renamed.1=classes2.dex
 renamed.0=classes.dex

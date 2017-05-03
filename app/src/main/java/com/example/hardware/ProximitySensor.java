@@ -8,10 +8,11 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class ProximitySensor extends Activity implements SensorEventListener{
+public class ProximitySensor extends AppCompatActivity implements SensorEventListener{
 	private SensorManager sensorManager;
 	 TextView tVProximity;
 	@Override

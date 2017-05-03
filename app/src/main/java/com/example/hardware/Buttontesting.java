@@ -4,6 +4,7 @@ package com.example.hardware;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
@@ -13,7 +14,7 @@ import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.Toast;
 
-public class Buttontesting extends Activity implements OnTouchListener {
+public class Buttontesting extends AppCompatActivity implements OnTouchListener {
 private static final String TAG = "Touch" ;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

@@ -3,11 +3,12 @@ package com.example.hardware;
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-public class Blueadd extends Activity {
+public class Blueadd extends AppCompatActivity {
     BluetoothAdapter mBluetoothAdapter;
     TextView r,t;
 	@Override
@@ -17,8 +18,8 @@ public class Blueadd extends Activity {
 		
 		r=(TextView)findViewById(R.id.textView12);
 		t=(TextView)findViewById(R.id.textView41);
-		r.setText("name "+getLocalBluetoothName());
-		t.setText("address "+getLocalBluetoothAddress());
+		r.setText("Name "+getLocalBluetoothName());
+		t.setText("Address "+getLocalBluetoothAddress());
 	}
 
 	@Override

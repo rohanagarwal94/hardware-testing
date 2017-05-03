@@ -6,11 +6,12 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-public class Gyroscope extends Activity implements SensorEventListener{
+public class Gyroscope extends AppCompatActivity implements SensorEventListener{
     TextView tvx,tvy,tvz;
     SensorManager sensmgr;
     Sensor gyrosensor;
@@ -54,9 +55,9 @@ public class Gyroscope extends Activity implements SensorEventListener{
    float x=sensorvalues[0];
    float y=sensorvalues[1];
    float z=sensorvalues[2];	
-   tvx.setText("x "+x+" rad/sec");
-   tvy.setText("y "+y+" rad/sec");
-   tvz.setText("z "+z+" rad/sec");
+   tvx.setText("x "+x+" rad/s");
+   tvy.setText("y "+y+" rad/s");
+   tvz.setText("z "+z+" rad/s");
    
    
 	}

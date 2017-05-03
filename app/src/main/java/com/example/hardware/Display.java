@@ -5,11 +5,12 @@ package com.example.hardware;
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.RelativeLayout;
 
-public class Display extends Activity {
+public class Display extends AppCompatActivity {
 	int [] a;
 	RelativeLayout r;
 	@Override

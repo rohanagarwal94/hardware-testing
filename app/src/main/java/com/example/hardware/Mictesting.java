@@ -7,11 +7,12 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-public class Mictesting extends Activity implements TextToSpeech.OnInitListener{
+public class Mictesting extends AppCompatActivity implements TextToSpeech.OnInitListener{
 	private static final String TAG = "TextToSpeechDemo";
 
     private TextToSpeech mTts;

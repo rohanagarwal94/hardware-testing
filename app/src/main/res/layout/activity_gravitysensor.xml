@@ -2,12 +2,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="clip_vertical"
-    android:background="@android:color/holo_blue_light" >
+    android:background="@color/primary_light" >
 
     <LinearLayout
         android:id="@+id/linearLayout1"
-        android:layout_width="130dp"
-        android:layout_height="100dp"
+        android:layout_width="300dp"
+        android:layout_height="130dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="51dp"
@@ -16,6 +16,7 @@
         <TextView
             android:id="@+id/textView70"
             android:layout_width="match_parent"
+            android:textSize="30sp"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:text="Gravity sensor" />
@@ -25,11 +26,15 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
+            android:textSize="30sp"
+
             android:text="not present" />
 
         <TextView
             android:id="@+id/textView72"
             android:layout_width="match_parent"
+            android:textSize="30sp"
+
             android:layout_height="0dp"
             android:layout_weight="1"
             android:text=" " />

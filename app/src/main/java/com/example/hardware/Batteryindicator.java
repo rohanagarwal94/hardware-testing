@@ -8,10 +8,11 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.ProgressBar;
 import android.widget.TextView;
  
-public class Batteryindicator extends Activity {
+public class Batteryindicator extends AppCompatActivity {
         //Create Broadcast Receiver Object along with class definition
     private BroadcastReceiver mBatInfoReceiver = new BroadcastReceiver() {
         @Override

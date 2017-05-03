@@ -6,10 +6,11 @@ import android.content.Context;
 import android.os.Build;
 import android.os.Bundle;
 
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 
-public class Systeminfo extends Activity {
+public class Systeminfo extends AppCompatActivity {
 TextView t1,t2,t3,t4,t5,t6,t7,t8,t9;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -45,15 +46,15 @@ TextView t1,t2,t3,t4,t5,t6,t7,t8,t9;
 	    
 	    String c=Build.MANUFACTURER;
 	    String b=Build.SERIAL;
-	    t3.setText("Name of underlying board " +m);
-	    t4.setText("System bootloader version number " +h);
-	    t5.setText("Brand of the software is  " +j);
-	    t6.setText("Name of the industrial design " +k);
-	    t7.setText("Name of the ternel "+z);
-	    t8.setText("Manufacturer of the product" +c);
-	    t9.setText("Hardware serial number " +b);
+	    t3.setText("Name of underlying board : " +m);
+	    t4.setText("System bootloader version number : " +h);
+	    t5.setText("Brand of the software is : " +j);
+	    t6.setText("Name of the industrial design : " +k);
+	    t7.setText("Name of the ternel : "+z);
+	    t8.setText("Manufacturer of the product: " +c);
+	    t9.setText("Hardware serial number : " +b);
 
-t2.setText("Build no :" +t);
+t2.setText("Build no : " +t);
 t1.setText("Android SDK: " + sdkVersion + q +" (" + release +")");
 			super.onStart();
 			

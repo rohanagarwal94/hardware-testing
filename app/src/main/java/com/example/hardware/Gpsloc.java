@@ -2,10 +2,11 @@ package com.example.hardware;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 
-public class Gpsloc extends Activity{
+public class Gpsloc extends AppCompatActivity {
     
    TextView tr,ts;
    double latitude,longitude;

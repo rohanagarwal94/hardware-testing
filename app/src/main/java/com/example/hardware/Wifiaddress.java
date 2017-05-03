@@ -6,11 +6,12 @@ import android.content.Intent;
 import android.net.wifi.WifiInfo;
 import android.net.wifi.WifiManager;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-public class Wifiaddress extends Activity {
+public class Wifiaddress extends AppCompatActivity {
 TextView t,u,v;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -30,9 +31,9 @@ TextView t,u,v;
 		{
 	        macAddress = "Device don't have mac address or wi-fi is disabled";
 	      }
-		t.setText("mac address "+macAddress);
+		t.setText("Mac Address "+macAddress);
 		
-		v.setText("ssid "+y);
+		v.setText("SSID "+y);
 	}
 
 	@Override

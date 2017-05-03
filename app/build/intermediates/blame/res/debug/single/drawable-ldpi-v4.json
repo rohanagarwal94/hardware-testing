@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/battery.jpeg",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-ldpi/battery.jpeg"
-    },
-    {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/battery.jpeg",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-ldpi/battery.jpeg"
     },
     {
         "merged": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/hatadministrator.jpg",
         "source": "/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/src/main/res/drawable-ldpi/hatadministrator.jpg"
-    },
-    {
-        "merged": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/hatadministrator.jpg",
-        "source": "/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/src/main/res/drawable-ldpi/hatadministrator.jpg"
     }
 ]
