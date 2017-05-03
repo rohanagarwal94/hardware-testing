@@ -1,7 +1,7 @@
-#Fri Oct 14 21:35:02 IST 2016
-base.0=/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_075815212259c45d4db5583edd30b290bad4b6ac
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e07bf03d1ef82854312641732fa5866ad06f5bb5/classes.dex
-base.1=/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e07bf03d1ef82854312641732fa5866ad06f5bb5
-file.0=/Users/abhishekyadav/Desktop/Open_source/Hardware-testing-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_075815212259c45d4db5583edd30b290bad4b6ac/classes.dex
+#Wed May 03 23:13:12 IST 2017
+base.0=/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_269747aa6d5cba17c9def4c32f76d8d6cef6698d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ce75a14d60b6078b74ad4d594dd5d43d4bbfb199/classes.dex
+base.1=/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ce75a14d60b6078b74ad4d594dd5d43d4bbfb199
+file.0=/Users/abhishekyadav/Desktop/Hardware-testing-nsit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_269747aa6d5cba17c9def4c32f76d8d6cef6698d/classes.dex
